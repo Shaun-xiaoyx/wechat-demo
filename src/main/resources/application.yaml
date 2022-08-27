@@ -22,7 +22,7 @@ wechat:
             #早安话语
             title: 小鲸鱼，早上好呀~
             #你们的相遇时间
-            meetDate: '2022-8-15'
+            meetDate: '2022-08-15'
             city: 深圳
             #居住地点，高德地图api下载查询 https://lbs.amap.com/api/webservice/download
             cityCode: 440300
